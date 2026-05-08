@@ -206,7 +206,7 @@ Low phase dispersion may indicate:
 * recurrent orbital behavior,
 * or constrained attractor circulation.
 
-![Orbital Phase Synchronization](orbital_phase_synchronization.png)
+![Orbital Phase Synchronization](orbital_phase_synchronisation.png)
 
 ### Additional Toroidal Analyses
 
