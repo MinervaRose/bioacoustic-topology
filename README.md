@@ -194,6 +194,20 @@ This representation is conceptually inspired by:
 
 ![Holographic Vocal Topology](holographic_vocal_topology.png)
 
+### Orbital Phase Synchronization
+
+Toroidal embeddings reveal partially recurrent cyclic organization across vocal motif states.
+
+Phase synchronization analysis estimates whether certain acoustic motifs preferentially occupy stabilized orbital regions within latent vocal topology.
+
+Low phase dispersion may indicate:
+
+* cyclic motif stabilization,
+* recurrent orbital behavior,
+* or constrained attractor circulation.
+
+![Orbital Phase Synchronization](orbital_phase_synchronization.png)
+
 ### Additional Toroidal Analyses
 
 * Orbital flow dynamics
