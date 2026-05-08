@@ -42,6 +42,18 @@ The objective is not to claim semantic language decoding, but rather to investig
 
 ---
 
+## Core Concepts
+
+- Latent acoustic state-space modeling
+- Motif transition grammars
+- Acoustic anomaly detection
+- Toroidal vocal topology
+- Energetic vocal flow fields
+- Orbital phase synchronization
+- Interactive audio-synchronized visualization
+
+---
+
 # Repository Structure
 
 ```text
