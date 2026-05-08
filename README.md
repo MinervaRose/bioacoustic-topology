@@ -54,6 +54,15 @@ The objective is not to claim semantic language decoding, but rather to investig
 
 ---
 
+## Interactive Dynamical Visualization
+
+The framework generates synchronized toroidal manifold animations coupling latent acoustic trajectories with real-time birdsong playback.
+
+
+![Bioacoustic Topology Demo](bioacoustic_topology.gif)
+
+---
+
 # Repository Structure
 
 ```text
