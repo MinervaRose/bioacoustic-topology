@@ -165,10 +165,41 @@ The notebook therefore treats vocalization as:
 
 ## Toroidal Geometry
 
-* Cyclic vocal manifold projection
+The framework extends latent acoustic topology into experimental toroidal embeddings in order to model cyclic vocal recurrence and orbital motif circulation.
+
+Rather than treating vocal states as isolated clusters, toroidal projection enables interpretation of birdsong as:
+
+* recurrent manifold traversal,
+* cyclic attractor navigation,
+* energetic orbital flow,
+* and partially stabilized acoustic circulation.
+
+### Holographic Vocal Topology
+
+To better visualize recurrent acoustic attractor regions, motif states are rendered as translucent volumetric density fields.
+
+These holographic fields approximate:
+
+* regions of persistent vocal occupation,
+* motif concentration zones,
+* and recurrent acoustic attractor behavior.
+
+Rather than emphasizing isolated nodes, the visualization treats vocal states as distributed energetic regions within latent acoustic topology.
+
+This representation is conceptually inspired by:
+
+* dynamical systems visualization,
+* volumetric state-space rendering,
+* and computational field modeling.
+
+![Holographic Vocal Topology](holographic_vocal_topology.png)
+
+### Additional Toroidal Analyses
+
 * Orbital flow dynamics
 * Resonance phase analysis
-* Holographic attractor fields
+* Energetic vocal flow fields
+* Phase synchronization behavior
 
 ## Interactive Visualization
 
