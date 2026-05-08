@@ -184,7 +184,7 @@ The notebook therefore treats vocalization as:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/bioacoustic-topology.git
+git clone https://github.com/MinervaRose/bioacoustic-topology.git
 cd bioacoustic-topology
 ```
 
