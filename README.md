@@ -17,6 +17,8 @@
 
 ## Latent Acoustic Geometry, Motif Grammar, and Temporal Bioacoustic Topology
 
+![Energetic Vocal Flow Field](energetic_flow_field.png)
+
 This repository explores whether birdsong can be modeled as a structured dynamical system rather than as isolated acoustic events.
 
 Using manifold learning, temporal trajectory modeling, probabilistic motif transitions, anomaly detection, and experimental toroidal embeddings, the framework constructs a latent bioacoustic state-space representation of vocal behavior.
