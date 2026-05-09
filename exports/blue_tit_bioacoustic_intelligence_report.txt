@@ -1,0 +1,48 @@
+
+BLUE TIT BIOACOUSTIC INTELLIGENCE REPORT
+========================================
+
+Recording provenance
+--------------------
+Xeno-canto ID: 1105941
+Common name: Eurasian Blue Tit
+Scientific name: Cyanistes caeruleus
+Recordist: Walter Wallner
+Country: Austria
+Location: Deutsch Schützen-Eisenberg (near  Edlitz im Burgenland), Oberwart, Burgenland
+Date: 2026-04-17
+Time: 10:05
+Quality: A
+Type: song
+Length: 3:17
+Audio URL: https://xeno-canto.org/1105941/download
+
+Recording summary
+-----------------
+Species: Eurasian Blue Tit
+Scientific name: Cyanistes caeruleus
+Detected syllables: 75
+Motif groups: 4
+Novel acoustic events: 9
+
+
+Dynamic state-space summary
+---------------------------
+Maximum velocity: 27.76
+Maximum acceleration: 24.24
+
+Grammar summary
+---------------
+Most stable motif state: STABLE CHIRP FIELD
+Strongest cross-state transition: VERTICAL BURST → TERMINAL DESCENT
+Dominant recurrent phrase: VERTICAL BURST → TERMINAL DESCENT → VERTICAL BURST
+Dominant phrase occurrences: 7
+
+Interpretation
+--------------
+This recording shows structured movement through a latent acoustic state-space.
+The bird repeatedly returns to stable motif regions while also producing
+transition chains and novel acoustic events.
+
+The dominant recurrent phrase may be treated as a candidate syntax fragment
+for comparison across other recordings or individuals.
