@@ -17,7 +17,7 @@
 
 ## Latent Acoustic Geometry, Motif Grammar, and Temporal Bioacoustic Topology
 
-![Energetic Vocal Flow Field](media/energetic_flow_field.png)
+![Energetic Vocal Flow Field](media/screenshots/energetic_flow_field.png)
 
 This repository explores whether birdsong can be modeled as a structured dynamical system rather than as isolated acoustic events.
 
@@ -59,7 +59,7 @@ The objective is not to claim semantic language decoding, but rather to investig
 The framework generates synchronized toroidal manifold animations coupling latent acoustic trajectories with real-time birdsong playback.
 
 
-![Bioacoustic Topology Demo](media/bioacoustic_topology.gif)
+![Bioacoustic Topology Demo](media/screenshots/bioacoustic_topology.gif)
 
 ---
 
@@ -214,7 +214,7 @@ Low phase dispersion may indicate:
 * recurrent orbital behavior,
 * or constrained attractor circulation.
 
-![Orbital Phase Synchronization](media/orbital_phase_synchronisation.png)
+![Orbital Phase Synchronization](media/screenshots/orbital_phase_synchronisation.png)
 
 ### Additional Toroidal Analyses
 
