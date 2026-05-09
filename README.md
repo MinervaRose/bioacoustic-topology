@@ -59,7 +59,7 @@ The objective is not to claim semantic language decoding, but rather to investig
 The framework generates synchronized toroidal manifold animations coupling latent acoustic trajectories with real-time birdsong playback.
 
 
-![Bioacoustic Topology Demo](media/screenshots/bioacoustic_topology.gif)
+![Bioacoustic Topology Demo](media/gifs/bioacoustic_topology.gif)
 
 ---
 
@@ -200,7 +200,7 @@ This representation is conceptually inspired by:
 * volumetric state-space rendering,
 * and computational field modeling.
 
-![Holographic Vocal Topology](holographic_vocal_topology.png)
+![Holographic Vocal Topology](media/screenshots/holographic_vocal_topology.png)
 
 ### Orbital Phase Synchronization
 
