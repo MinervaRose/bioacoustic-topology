@@ -77,7 +77,6 @@ bioacoustic-topology/
 │   └── interactive_visualizations/
 │
 ├── media/
-│   ├── figures/
 │   ├── gifs/
 │   └── screenshots/
 │
